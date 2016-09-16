@@ -16,4 +16,8 @@ public class WifiUtils {
         return true;
     }
 
+    public static boolean isWPS(ScanResult scanResult) {
+        return scanResult.capabilities.contains("WPS");
+    }
+
 }
