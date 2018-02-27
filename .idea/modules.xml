@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/VergAndroidLib.iml" filepath="$PROJECT_DIR$/VergAndroidLib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/verglib/verglib.iml" filepath="$PROJECT_DIR$/verglib/verglib.iml" />
     </modules>
   </component>
